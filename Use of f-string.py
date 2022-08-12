@@ -1,6 +1,6 @@
 #   Use of f-string
 
-#   f-String : It is used to add any variables valus in any statement.
+#   f-String : It is used to add any variables values in any statement.
 
 #   Starting of code...
 
@@ -19,7 +19,7 @@ print("")
 #   2) After that type your Statement in Double or single Quotes.
 #       Ex : print(f"My name  is : ")
 
-#   3) After your statement in quotes add opening and closing curly brackets and type the variable name in between quotes.
+#   3) After your statement in quotes add opening and closing curly brackets and type the variable name in between bkackets.
 #       Ex : a = "Rohan"
 #           print(f"My name is : {a}")
 #       Output : My name is : Rohan
