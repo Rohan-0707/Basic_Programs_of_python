@@ -26,10 +26,10 @@ print("")
 
 #   Adding multiple variables in a single statement.
 
-a = "Rohan"
-b = 4
-c = "TY"
-d = 90.13
+a = "Rohan"         # Here we declare variable 'a' as string with value "Rohan"
+b = 4               # Here we declare variable 'b' as integer with value 4
+c = "TY"            # here we declare variavle 'c' as string with value "TY"
+d = 90.13           # Here we declare our last variable 'd' as float with value 90.13
 
 print("")
 print(f"My name is {a}, My Roll NO is {b} and I am in {c} of Computer Engineering !")
@@ -42,3 +42,12 @@ print("")
 print("")
 print(f"Hello I am {a}, My Roll No is {b} and I was recently pass out my SY with {d}% marks, and now I am in {c}")
 print("")
+
+#   Output : Hello I am Rohan, My Roll No is 4 and I was recently pass out my SY with 90.13% marks, and now I am in TY
+
+#   Note : We can able to add multiple variables in a single String !
+
+#   _____________________________________________________________________________________________________________________
+
+#                                                        Thank You !
+#   _____________________________________________________________________________________________________________________
