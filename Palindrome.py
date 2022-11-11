@@ -3,8 +3,9 @@
 # <!-- Instagram : i_am_the_rohan_ -->
 # <!-- Facebook : facebook.com/rohan.bhoi.07 -->
 # <!-- Mail ID : rohanbhoi1546@gmail.com -->
-# <!-- Linkdi : rohan-kumar-bhoi -->
+# <!-- LinkdIn : rohan-kumar-bhoi -->
 # <!-- Twitter : @rohanbhoi07 -->
+# <!-- Whatsapp : http://bit.ly/3WVFh1W -->
 
 
 # Python Program to check an Number is Palidromeor not !
